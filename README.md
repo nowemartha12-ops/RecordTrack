@@ -21,11 +21,13 @@ The system aims to make it easier for clinic staff to manage patient records and
 - XAMPP – Local development server.
 
 ## 4. Main Project Files
+-`RecordTrack/'-contains all the project files
 - `index.php` – Main entry page.
 - `auth.php` – User authentication.
 - `config.php` – Database configuration.
 - `followups.php` – Patient follow-up section.
 - `import_patients.php` – Patient data import.
+- 
 - `includes/` – Supporting project files.
 
 ## 5. Installation and Setup
